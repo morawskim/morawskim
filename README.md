@@ -40,7 +40,7 @@ After work, I develop an internal system for ordering and accounting for meals, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morawskim&layout=compact&hide=vim%20script,vim%20snippet)
 -->
 
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=morawskim&show_icons=true&theme=nord" alt="morawskim's github stats"/>
+<img align="left" width="470" height="165" src="https://github-readme-stats.vercel.app/api?username=morawskim&show_icons=true&theme=nord" alt="morawskim's github stats"/>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morawskim&layout=compact&hide=vim%20script,vim%20snippet,roff&exclude_repo=morawskim.github.io" alt="Top Langs" />
   
