@@ -2,7 +2,7 @@
 
 A senior full stack developer from Poland.
 
-I have certificates from PHP (Zend), Symfony 5, Linux (LPIC-1) and Docker (Docker Certified Associate).
+I have certificates from PHP (Zend), Symfony 5, Linux (LPIC-1), Docker (Docker Certified Associate) and AWS (AWS Certified Developer).
 I have been involved in architecting and developing a backend system. I bring 10 years of experience in software engineering. 
 For 4 years I am also engaged in Docker, Gitlab CI/CD, and React.js.
 
@@ -31,6 +31,7 @@ After work, I develop an internal system for ordering and accounting for meals, 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)](https://www.ansible.com/)
 [![Terraform](https://img.shields.io/badge/-Terraform-7B41BD?style=flat-square&logo=terraform&logoColor=ffffff)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
@@ -42,5 +43,5 @@ After work, I develop an internal system for ordering and accounting for meals, 
 
 <img align="left" width="470" height="165" src="https://github-readme-stats.vercel.app/api?username=morawskim&show_icons=true&theme=nord" alt="morawskim's github stats"/>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morawskim&layout=compact&hide=vim%20script,vim%20snippet,roff&exclude_repo=morawskim.github.io" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morawskim&layout=compact&hide=vim%20script,vim%20snippet,roff&exclude_repo=morawskim.github.io&langs_count=6" alt="Top Langs" />
   
