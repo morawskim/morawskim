@@ -13,7 +13,7 @@ After work, I develop an internal system for ordering and accounting for meals, 
 [![PHP](https://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-![Go](https://img.shields.io/badge/-Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)[https://go.dev/]
 
 [![Symfony](https://img.shields.io/badge/-Symfony-092E20?style=flat-square&logo=Symfony&logoColor=ffffff)](https://www.symfony.com/)
 [![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)](https://reactjs.org/)
