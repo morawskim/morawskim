@@ -45,3 +45,9 @@ After work, I develop an internal system for ordering and accounting for meals, 
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morawskim&layout=compact&hide=vim%20script,vim%20snippet,roff&exclude_repo=morawskim.github.io&langs_count=6" alt="Top Langs" />
   
+## Portfolio
+
+[![Packagist](https://img.shields.io/badge/-Packagist-F28D1A?style=flat-square&logo=packagist&logoColor=ffffff)](https://packagist.org/packages/mmo/)
+[![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/morawskim)
+[![GitHub](https://img.shields.io/badge/-morawskim-181717?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/morawskim/)
+[![GitHub pages](https://img.shields.io/badge/-morawskim-222222?style=flat-square&logo=githubpages&logoColor=ffffff)](https://morawskim.github.io/)
