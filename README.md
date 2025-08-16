@@ -2,10 +2,11 @@
 
 A senior full stack developer from Poland.
 
-I love developing in PHP (especially Symfony) and Go. I am also big fan of DevOps. I like improve and check my skill, so I passed 7 certificates.
-I have been involved in architecting and developing a backend system. I bring more than 10 years of experience in software engineering. For 4 years I am also engaged in Docker, Gitlab CI/CD, and React.js.
+I love developing in PHP (especially Symfony) and Go. I am also big fan of DevOps. I like improve and check my skill, so I passed 8 certificates.
+I have been involved in architecting and developing a backend system. I bring more than 10 years of experience in software engineering. For 7 years I am also engaged in DevOps, frontend and cloud topics.
 
-In my daily work I use the best practices, code standard, and open source solutions. As a programmer I create patches or new functionalities in these projects and share them. I care about the quality of the code through the use of code review, design patterns, and unit tests.
+In my daily work I use the best practices, code standard, and open source solutions. As a programmer I create patches or new functionalities in these projects and share them. I care about the quality of the code through the use of code review, design patterns, and unit tests. 
+I am ZF1 and Symfony contributor.
 After work, I develop an internal system for ordering and accounting for meals, which provides "sandbox" for new technological solutions.
 
 ## Technology Stack
